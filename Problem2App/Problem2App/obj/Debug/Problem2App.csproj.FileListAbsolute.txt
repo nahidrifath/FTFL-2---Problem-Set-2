@@ -1,0 +1,5 @@
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem2App\Problem2App\bin\Debug\Problem2App.exe.config
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem2App\Problem2App\bin\Debug\Problem2App.exe
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem2App\Problem2App\bin\Debug\Problem2App.pdb
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem2App\Problem2App\obj\Debug\Problem2App.exe
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem2App\Problem2App\obj\Debug\Problem2App.pdb

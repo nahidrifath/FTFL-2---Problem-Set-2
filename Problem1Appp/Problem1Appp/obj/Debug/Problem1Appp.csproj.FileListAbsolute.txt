@@ -1,0 +1,6 @@
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem1Appp\Problem1Appp\bin\Debug\Problem1Appp.exe.config
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem1Appp\Problem1Appp\bin\Debug\Problem1Appp.exe
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem1Appp\Problem1Appp\bin\Debug\Problem1Appp.pdb
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem1Appp\Problem1Appp\obj\Debug\Problem1Appp.csprojResolveAssemblyReference.cache
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem1Appp\Problem1Appp\obj\Debug\Problem1Appp.exe
+D:\NerdCastle\FTFL Training\Problem Set 2 Solutions\Problem1Appp\Problem1Appp\obj\Debug\Problem1Appp.pdb
